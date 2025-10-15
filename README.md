@@ -57,7 +57,7 @@ I’m focusing on **Core Java, Data Structures & Algorithms, Spring Boot, MySQL,
 ## 🌟 Connect With Me
 Let’s grow and code together!  
 
-🔗 [LinkedIn](https://linkedin.com/piyush-kumar-b8a865225) • 💻 [GitHub](https://github.com/) • ✉️ [Email](mailto:youremail@example.com)
+🔗 [LinkedIn](www.linkedin.com/in/piyush-kumar-b8a865225) • 💻 [GitHub](https://github.com/) • ✉️ [Email](mailto:youremail@example.com)
 
 ---
 
